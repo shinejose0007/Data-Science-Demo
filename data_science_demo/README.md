@@ -4,7 +4,7 @@ Data Science Demo Project
 Zweck
 -----
 Dieses kleine Demo-Projekt zeigt eine kompakte, reproduzierbare Pipeline, die viele Anforderungen aus der ausgeschriebenen
-Booz Allen Data Scientist-Stelle abdeckt: ETL (CSV <-> SQLite), Datenbereinigung, Feature-Engineering (inkl. Zeitreihen-Features
+Data Scientist-Stelle abdeckt: ETL (CSV <-> SQLite), Datenbereinigung, Feature-Engineering (inkl. Zeitreihen-Features
 und einfache Text-Vektorisierung), Modelltraining (Gradient Boosting), Backtesting/Time-based Split, Evaluation (RMSE, MAE),
 und Visualisierung (matplotlib).
 
