@@ -1,0 +1,9 @@
+Beispielausgabe nach Ausführung von `python main.py`:
+
+- outputs/sample_data.csv
+- outputs/data.db
+- outputs/model.pkl
+- outputs/tfidf.pkl
+- outputs/metrics.json
+- outputs/plots/timeseries_target.png
+- outputs/plots/feature_importance.png

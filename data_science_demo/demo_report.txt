@@ -1,0 +1,5 @@
+Kurzer Bericht (automatisch):
+- Demonstriert End-to-End ETL -> Modell -> Evaluation -> Visualisierung
+- Beinhaltet Textverarbeitung (TF-IDF) als Beispiel für unstrukturierte Daten
+- Nutzt SQLite als leichtgewichtiges Beispiel für strukturierten Speicher / SQL-Zugriff
+- Zeigt reproducible pipeline Struktur (modulare Skripte) und speichert Artefakte
